@@ -9,5 +9,15 @@
   ],
   "profile": {
     "name": "xartola"
-  }
+  },
+  "people":[
+     {"name": "aaa"}
+  ],
+  "planets":[
+     {"name": "bbb"}
+  ],
+  "starships":[
+     {"name": "bbb"}
+  ],
 }
+
